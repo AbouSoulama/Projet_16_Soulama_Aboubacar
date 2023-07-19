@@ -58,19 +58,87 @@
 
 
 
-let arbre;
-
-console.log(arbre)
-
-  
+// let arbre;
+// console.log(arbre)
 
 
 
- 
- 
+
+// let total = 2;
+// let x = 4;
+
+// x++;
+
+// total = x;
+
+// console.log(total);
 
 
 
+// let x = 6;
+// let y = "5";
+
+// if (x === y) {
+//     console.log("True !");
+// } else if (x == y) {
+//     console.log("e rt y égaux en valeur");
+// } else{
+//     console.log(x + "et" + y "ne sont pas du tout égaux");
+//     console.log('${x} et ${y} ne sont pas du tout égaux');
+// }
+
+
+
+
+// let x = 6;
+// let y = "5";
+
+//  x === y ? Console.log("True !") : console.log("false");
+
+
+
+
+// function fareQuelqueChose() {
+//     console.log("je fais un truc !");
+//     console.log("Trop cool");
+// }
+
+// const faireUneTache = (tache) => {
+//     console.log("je fais : " + tache);
+// };
+
+// function add2() {
+//     let a = 4; 
+//     return a + 2
+// }
+
+// (function () {
+//     console.log("je ne joue toute seule");
+// })()
+
+// (() => {
+//     console.log("je ne joue aussi toute seule");
+// })();
+
+
+
+// let a = 9;
+
+// function fareQuelqueChose() {
+//     console.log("je fais un truc !");
+//     console.log("Trop cool");
+// }
+
+// const faireUneTache = (tache) => {
+//     console.log("je fais : " + tache);
+// };
+
+// function add2() {
+//     return a + 2
+// }
+
+
+// EXERCICE : Une calcilatrice
 
 let total = 0;
 
@@ -104,6 +172,7 @@ function multiplication(x) {
 function reset( ){
     total = 0;
 }
+
 
 
 
